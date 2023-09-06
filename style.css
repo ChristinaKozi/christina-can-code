@@ -1,8 +1,13 @@
 body {
-    background: rgb(112, 176, 216);
+    background: rgb(197, 160, 215);
   }
 
 h1 {
     font-style: italic;
     text-align: center;
-    color: rgb(148, 112, 216);
+    color: rgb(0, 0, 0);
+}
+
+#recommendationList {
+    font-size: 80%;
+}
